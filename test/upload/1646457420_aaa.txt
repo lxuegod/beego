@@ -1,0 +1,40 @@
+CAD2022序列号：666-69696969，667-98989898，400-45454545，066-66666666。
+CAD2022产品密钥：001M1
+
+GOPATH
+%USERPROFILE%\go
+
+line
+gun
+root
+ah,qLNnpZ85a
+q3KiwdH&&o?r
+ALTER USER 'root'@'localhost' IDENTIFIED BY '1234';
+
+我问大夫什么药可医相思之苦，九叶重楼二两，冬至蝉蛹一钱，煎入隔年雪，可医世人相思疾苦，我又问，可重楼七月一枝花，冬至何来蝉蛹，雪又怎能隔年，相思又怎可解，大夫说，殊不知，夏枯即为九重楼，掘地三尺寒蝉现，除夕子时雪，落地已隔年，过了离别时，相思亦可解。
+
+D:\Program Files\ctf\MySQL\mysql\mysql-8.0.25-winx64\bin
+
+_DVWA = array();
+$_DVWA[ 'db_server' ]   = '127.0.0.1';
+$_DVWA[ 'db_database' ] = 'dvwa';
+$_DVWA[ 'db_user' ]     = 'root';
+$_DVWA[ 'db_password' ] = 'p@ssw0rd';
+
+
+admin' or 1=1# 
+
+
+xuegod1 家：-604，64，-501
+xuegod1洞口：-607，12，-496
+
+xuegod1船：-579，64，-380
+-606，69，-236
+-571，66，-298
+-435，64，-382
+xuegod1牧民家：-777，63，-368
+xuegod1海岛：-511，60，-307
+xuegod2家：3092，64，32
+xuegod1地狱之门：-90，66，-45
+
+?file=php://filter/read=convert.base64-encode/resource=flag.php

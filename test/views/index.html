@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+
+<br>---------------------------结构体渲染<br>
+{{.user.Id}}
+{{.user.Name}}
+{{.user.Age}}
+
+<br>---------------------------数组渲染<br>
+
+{{range $k, $v := .arr}}
+    {{$k}}
+    {{$v}}
+    <br>
+
+{{end}}
+
+<br>      <!--另一种渲染，没有标号-->
+{{range .arr}}
+    {{.}}
+{{end}}
+
+<br>---------------------------结构体+数组渲染<br>
+
+{{range.users}}
+    {{.Id}}
+    {{.Name}}
+    {{.Age}}
+    <br>
+{{end}}
+
+<br>---------------------------map渲染<br>
+{{.map_data.name}}
+{{.map_data.age}}
+
+<br>---------------------------map加结构体渲染<br>
+{{.map_struct.user1}}
+<br>
+{{.map_struct.user2}}
+
+<br>---------------------------切片渲染<br>
+{{range.slice}}
+    {{.}}<br>
+{{end}}
+
+
+
+</body>
+</html>
